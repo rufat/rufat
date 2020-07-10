@@ -1,4 +1,4 @@
-#### Hey there! 👋
+### Hey there! 👋
 
 💻 I’m a product person. I love planning, tracking, and involving in the development of exciting products.
 

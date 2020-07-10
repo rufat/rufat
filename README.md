@@ -17,6 +17,7 @@ Have a question or just want to say “hello”? [rufat@botdelive.com](mailto:ru
  ---
 
 <p align='center'>
+  <a href="https://botdelive.com"><img height="30" src="https://github.com/rufat/rufat/blob/master/botdelive.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://medium.com/@rufatmammadli"><img height="30" src="https://github.com/rufat/rufat/blob/master/medium.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rufatmammadli"><img height="30" src="https://github.com/rufat/rufat/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/rufatmammadli"><img height="30" src="https://github.com/rufat/rufat/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;

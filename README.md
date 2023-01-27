@@ -4,7 +4,7 @@
 
 💡 I'm the maker of [onradar](https://onradar.io). It is an advanced multi-step uptime monitoring service.
 
-🎓 I also graduated from [Y Combinator’s Startup School](https://www.startupschool.org/companies/botdelive) in 2018 Summer with Botdelive.
+🎓 I've graduated from [Y Combinator’s Startup School](https://www.startupschool.org/companies/botdelive) in 2018 Summer.
 
 🛠️ My favorite tools are React, React Native, Node.js and MongoDB.
 
